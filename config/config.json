@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x932798c1e9F0C096f21A7741957Fc9E959388D32",
+  "SCAN_LINK": "https://polygonscan.com/token/0x932798c1e9F0C096f21A7741957Fc9E959388D32",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PunknPunks NFTs",
+  "SYMBOL": "PNP",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/punknpunks-1",
+  "SHOW_BACKGROUND": true
+}
